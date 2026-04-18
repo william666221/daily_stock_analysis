@@ -1,6 +1,8 @@
-# 开启 GitHub Issues 推送
-push:
-  github_issue: true
+# 基础配置
+REPORT_TYPE: "full"     # 选 full 报告最详细
+REPORT_LANGUAGE: "zh"   # 确保是中文
 
+# 股票列表
 stocks:
   - "sh600519"
+  - "sz000001"
