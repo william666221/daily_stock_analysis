@@ -1,8 +1,10 @@
-# 基础配置
-REPORT_TYPE: "full"     # 选 full 报告最详细
-REPORT_LANGUAGE: "zh"   # 确保是中文
+# 报告详细程度
+REPORT_TYPE: "full"
+REPORT_LANGUAGE: "zh"
 
-# 股票列表
+# 4只目标股票列表
 stocks:
-  - "sh600519"
-  - "sz000001"
+  - "sh603890"
+  - "sh600410"
+  - "sz002150"
+  - "sh600584"
